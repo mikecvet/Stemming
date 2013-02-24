@@ -1,0 +1,1 @@
+g++ -o stemmer -O2 src/stemming/Stemmer.cpp src/stemming/main.cpp
